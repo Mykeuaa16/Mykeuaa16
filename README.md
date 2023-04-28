@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mykeuaa16
-- 👀 I’m interested in ... ( . )( . )
 - 🌱 I’m currently learning ... Java, and Ue4 C++ Visual Scripting
-- 💞️ I’m looking to collaborate on ... Medieval Fantasy RPG survival Games and Mods
+- 💞️ I’m looking to collaborate on ... Zombie survival Games
 - 📫 How to reach me ... mykensminger@gmail.com
 
 <!---
